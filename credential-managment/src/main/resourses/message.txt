@@ -1,0 +1,24 @@
+MS1
+************************************
+*  1. Create New Excel File        *
+*  2. Add details in Excel File    *
+*  3. Update details               *
+*  4. Delete details               *
+*  5. Show all details             *
+*  6. Search a details             *
+*  7. Exit                         *
+************************************
+Enter Task Number
+~
+MS2
+Enter details as below
+	
+Name, Userid, password, RegNumber, AC number
+************************************************
+* *Note: Seperate the details with space       *
+*  space & put NA if details not avlaible      *
+*  ex: 'Dev' 'singh@gmail.com' '1234' 'na' 'na'*
+************************************************
+~
+MS3
+dfdsfdsfsdfsdf
